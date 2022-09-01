@@ -49,7 +49,9 @@ my_list= [n for n in num if n%2==0]
 print(my_list)
 
 
-
+fruit_list=['apple','grapes','kiwi']
+new_list=[fruits for fruits in fruit_list if 'a' in fruits]
+print( list(new_list))
 
 
 

@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06a3689b-33fb-4e01-a74f-eb7288f11fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Logging/datastructure/Practice_Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Logging/datastructure/def_text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Logging/docString/doc_indent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Logging/docString/doc_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Logging/docString/multipleline_doc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Logging/docString/singleline_doc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstraction/data_abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/consructors_super_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/inheritacnce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/inheritance_eg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/inhritance_pp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/multilevel_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/multilevel_inheritance_pp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/multilevelpp_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance/multiple_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop3_varialbels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_inner_cls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/duck_typing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/method_overiding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/method_overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/operator_overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods_pp/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods_pp/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods_pp/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods_pp/reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comprahension/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comprahension/list_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../comprahension/list_comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comprahension/tuple_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/../comprahension/generator_comprehension.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +28,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/CustomFellowShip144/Day2_loggingPracticeP/methods_pp&quot;
+    &quot;last_opened_file_path&quot;: &quot;G:/CustomFellowShip144/practice_examples/python_practice_problem/OOPSin Python&quot;
   }
 }</component>
   <component name="RecentsManager">
